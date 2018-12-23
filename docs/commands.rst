@@ -43,7 +43,7 @@ one command.
   * A shortcut for a base URL. Currently there are the following shortcuts:
 
     - ":en" -- http://en.wikipedia.org/w/, i.e. the English Wikipedia
-    - ":de" -- http://en.wikipedia.org/w/, i.e. the German Wikipedia
+    - ":de" -- http://de.wikipedia.org/w/, i.e. the German Wikipedia
 
   * A filename of a ZIP file generated with the `the mw-zip Command`_.
   
